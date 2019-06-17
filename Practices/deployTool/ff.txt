@@ -1,0 +1,123 @@
+Mozilla Firefox 61.0.1
+Mozilla Firefox 61.0
+Mozilla Firefox 60.0.2
+Mozilla Firefox 60.0.1
+Mozilla Firefox 60.0
+Mozilla Firefox 59.0.3
+Mozilla Firefox 59.0.2
+Mozilla Firefox 59.0.1
+Mozilla Firefox 59.0
+Mozilla Firefox 58.0.2
+Mozilla Firefox 58.0.1
+Mozilla Firefox 58.0
+Mozilla Firefox 57.0.4
+Mozilla Firefox 57.0.3
+Mozilla Firefox 57.0.2
+Mozilla Firefox 57.0.1
+Mozilla Firefox 57.0.0.20171115
+Mozilla Firefox 57.0
+Mozilla Firefox 56.0.2
+Mozilla Firefox 56.0.1
+Mozilla Firefox 56.0
+Mozilla Firefox 55.0.3
+Mozilla Firefox 55.0.2
+Mozilla Firefox 55.0.1
+Mozilla Firefox 55.0
+Mozilla Firefox 54.0.1
+Mozilla Firefox 54.0
+Mozilla Firefox 53.0.3
+Mozilla Firefox 53.0.2
+Mozilla Firefox 53.0
+Mozilla Firefox 52.0.2
+Mozilla Firefox 52.0.1
+Mozilla Firefox 52.0
+Mozilla Firefox 51.0.1
+Mozilla Firefox 51.0
+Mozilla Firefox 50.1.0
+Mozilla Firefox 50.0.2
+Mozilla Firefox 50.0.1.20161130
+Mozilla Firefox 50.0.1
+Mozilla Firefox 50.0
+Mozilla Firefox 49.0.2.20161024
+Mozilla Firefox 49.0.2.20161023
+Mozilla Firefox 49.0.2
+Mozilla Firefox 49.0.1
+Mozilla Firefox 49.0
+Mozilla Firefox 48.0.2
+Mozilla Firefox 48.0.1
+Mozilla Firefox 48.0
+Mozilla Firefox 47.0.1
+Mozilla Firefox 47.0
+Mozilla Firefox 46.0.1
+Mozilla Firefox 46.0
+Mozilla Firefox 45.0.2
+Mozilla Firefox 45.0.1
+Mozilla Firefox 45.0
+Mozilla Firefox 44.0.2
+Mozilla Firefox 44.0.1
+Mozilla Firefox 44.0
+Mozilla Firefox 43.0.4
+Mozilla Firefox 43.0.3
+Mozilla Firefox 43.0.2.20151214
+Mozilla Firefox 43.0.2
+Mozilla Firefox 43.0.1.20151220
+Mozilla Firefox 43.0.1
+Mozilla Firefox 43.0
+Mozilla Firefox 42.0
+Mozilla Firefox 41.0.2
+Mozilla Firefox 41.0.1
+Mozilla Firefox 41.0
+Mozilla Firefox 40.0.3
+Mozilla Firefox 40.0.2
+Mozilla Firefox 40.0
+Mozilla Firefox 39.0.3
+Mozilla Firefox 39.0
+Mozilla Firefox 38.0.5
+Mozilla Firefox 38.0.1
+Mozilla Firefox 38.0
+Mozilla Firefox 37.0.2
+Mozilla Firefox 37.0.1
+Mozilla Firefox 37.0.0.20150401
+Mozilla Firefox 37.0
+Mozilla Firefox 36.0.4
+Mozilla Firefox 36.0.3
+Mozilla Firefox 36.0.1
+Mozilla Firefox 36.0
+Mozilla Firefox 35.0.1
+Mozilla Firefox 35.0
+Mozilla Firefox 34.0.5.20141222
+Mozilla Firefox 34.0.5
+Mozilla Firefox 33.1.1
+Mozilla Firefox 33.1
+Mozilla Firefox 33.0.2
+Mozilla Firefox 33.0.1
+Mozilla Firefox 33.0
+Mozilla Firefox 32.0.3
+Mozilla Firefox 32.0.2
+Mozilla Firefox 32.0.1
+Mozilla Firefox 32.0
+Mozilla Firefox 31.0
+Mozilla Firefox 30.0
+Mozilla Firefox 29.0.1
+Mozilla Firefox 29.0
+Mozilla Firefox 28.0
+Mozilla Firefox 27.0.1
+Mozilla Firefox 27.0
+Mozilla Firefox 26.0.0.20131218
+Mozilla Firefox 26.0.0.20131217
+Mozilla Firefox 26.0
+Mozilla Firefox 25.0.1
+Mozilla Firefox 25.0
+Mozilla Firefox 24.0
+Firefox 23.0.1
+Firefox 23.0
+Firefox 22.0
+Firefox 21.0.0.20130620
+Firefox 21.0
+Firefox 20.0.1
+Firefox 19.0.2
+Firefox 19.0
+Firefox 18.0.1
+Firefox 18.0
+Firefox 17.0.1
+Firefox 15.0
