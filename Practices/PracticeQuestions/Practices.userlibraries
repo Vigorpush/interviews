@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="org.mockito:mockito-all:1.10.19">
+    <archive path="D:/Interview/Mentor/Code_Sample/Practices/lib/mockito-all-1.10.19.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,80 @@
+
+Questions:
+
+1.            Written in a modern language (such as java, c#, python, ruby, etc) using object oriented design principles
+
+2.            Provide a basic class diagram showing how you designed your solution
+
+3.            Should just be a command line app, no GUI required.
+
+4.            Ability to add a team to the tournament
+
+5.            Ability to add a coach to a team
+
+6.            Ability to add a player to a team
+
+7.            Ability to create a game between 2 teams
+
+8.            Ability to enter the result of a game
+
+9.            Ability to report all game results from a tournament
+
+10.          You can persist any information you like using any method you choose.
+
+11.          Provide unit tests to test your application (using a framework such as jUnit)
+
+
+Brief Description: 
+Language: Java
+Test Framework: Junit
+IDE: IntelliJ/Eclipse
+
+Files and Folder Structure: 
+
+Under Src folder
+Human.java
+    Player.java (Extends from Human)
+    Coach.java  (Extends from Human)
+HumanTest.java
+Game.java
+GameTest.java   
+Team.java        
+TeamTest.java
+DataSaver.java            
+DataSaverTest.java  
+Tournament.java (Run from here)
+TournamentTest.java
+TestRunner.java (Test Suites for all components)
+
+PS:
+1. All the Java files which end with Test.java are runnable. 
+2. Tournament.java is the main program (Runnable)
+3. Files in one folder(Package) for now due to I don't want to make its way to complex. The better practice is separate the test file and functionalities files into a different folder(Package)
+4. Player and Coach java file do not have their unit test cases because they extend from human class and they do not add any functions, which has unit test cases covered. I wrote those due to it could be expended (adding new features)
+5. DataSaver java is for "You could persist any information you like using any method you choose.". It could save given information into text files
+
+Instruction to run and test the program:
+Make sure you have Java installed into your machine (Please following https://java.com/en/download/help/download_options.xml to install)
+Download the zip file
+
+Open up with Eclipse
+Click "File"
+Click "Import"
+Click "General"
+Select Existing Projects into Workspace
+Select "Select archive file"
+Click "Browse" 
+Find the archive file 
+Select
+Click Finish
+
+Open up with IntelliJ
+You need to unzip the project
+Click File
+Click Open File 
+Browse to the folder location 
+Select "<Project Name>"
+Click ok 
+
+
+ 
