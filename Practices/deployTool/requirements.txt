@@ -10,5 +10,5 @@ modulegraph==0.16
 pefile==2017.11.5
 PyQt5==5.11.2
 PyQt5-sip==4.19.12
-requests==2.19.1
+requests==2.20.0
 urllib3==1.24.2
